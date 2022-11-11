@@ -9,11 +9,6 @@ This is a *bare-minimum* template to create a [Jekyll] site that:
 More specifically, the created site:
 
 
-
-https://user-images.githubusercontent.com/67600109/201290696-290e8002-095d-40fb-a683-4c8b11551c97.mp4
-
-
-
 - uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
 - uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
 
