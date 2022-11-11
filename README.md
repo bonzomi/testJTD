@@ -8,7 +8,6 @@ This is a *bare-minimum* template to create a [Jekyll] site that:
 
 More specifically, the created site:
 
-
 - uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
 - uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
 
